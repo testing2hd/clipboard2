@@ -1,0 +1,5 @@
+Upload every file in this zip to the ROOT of your GitHub repo (except this txt file).
+Then create ONE more file in GitHub: name it  .github/workflows/build-apk.yml
+and paste the contents of build-apk.yml into it. (Same content as the file in this zip.)
+Open Actions > Build APK, wait for it to finish, download "link-router-apk".
+After installing: turn on Accessibility (floating button), Display over other apps, notifications, and start Shizuku.
